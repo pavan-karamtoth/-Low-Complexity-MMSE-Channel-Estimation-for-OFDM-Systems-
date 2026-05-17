@@ -38,7 +38,7 @@ IIT Guwahati
 
 ### Akash Sonowal
 **MTech Communications Engineering**
-AUTHOR_TWO_INSTITUTION
+IIT Guwahati
 
 [![GitHub](https://img.shields.io/badge/GitHub-AUTHOR_TWO_GITHUB-181717?logo=github)](https://github.com/AkashSonowal244102001)
 
