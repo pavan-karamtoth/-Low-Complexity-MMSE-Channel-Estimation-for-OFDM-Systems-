@@ -42,26 +42,6 @@ IIT Guwahati
 
 [![GitHub](https://img.shields.io/badge/GitHub-AUTHOR_TWO_GITHUB-181717?logo=github)](https://github.com/AkashSonowal244102001)
 
-</td>
-</tr>
-</table>
-
-> **How to personalise this README** — search (`Ctrl+F`) and replace every placeholder below:
->
-> | Placeholder | Replace with |
-> |-------------|-------------|
-> | `AUTHOR_ONE_NAME` | Your full name |
-> | `AUTHOR_ONE_DEGREE` | e.g. M.Tech ECE |
-> | `AUTHOR_ONE_INSTITUTION` | e.g. IIT Guwahati |
-> | `AUTHOR_ONE_GITHUB` | Your GitHub username |
-> | `AUTHOR_TWO_NAME` | Co-author full name |
-> | `AUTHOR_TWO_DEGREE` | e.g. M.Tech ECE |
-> | `AUTHOR_TWO_INSTITUTION` | e.g. IIT Guwahati |
-> | `AUTHOR_TWO_GITHUB` | Co-author GitHub username |
-> | `YOUR_REPO_URL` | Full GitHub repo URL |
-> | `YEAR` | Current year |
-
----
 
 ## Table of Contents
 
