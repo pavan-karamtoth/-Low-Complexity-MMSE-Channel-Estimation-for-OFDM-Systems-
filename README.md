@@ -1,4 +1,4 @@
-# OFDM Channel Estimation — van de Beek et al. (1995)
+# OFDM Channel Estimation — 
 
 <div align="center">
 
@@ -12,8 +12,6 @@
 *A complete MATLAB simulation and extended analysis of the landmark paper:*
 
 **"On Channel Estimation in OFDM Systems"**
-Jan-Jaap van de Beek · Ove Edfors · Magnus Sandell · Sarah Kate Wilson · Per Ola Börjesson
-*IEEE Vehicular Technology Conference (VTC), 1995, pp. 815–819*
 
 </div>
 
@@ -511,7 +509,7 @@ this permission notice appearing in all copies.
 
 <div align="center">
 
-Implemented by **AUTHOR_ONE_NAME** and **AUTHOR_TWO_NAME**
+Implemented by **Karamtoth Pavan** and **Akash Sonowal**
 
 *Every line of code maps to an equation in the paper.*
 
