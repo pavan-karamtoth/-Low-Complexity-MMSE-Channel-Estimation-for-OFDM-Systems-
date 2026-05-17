@@ -27,20 +27,20 @@ This implementation was developed by:
 <tr>
 <td align="center" width="50%">
 
-### AUTHOR_ONE_NAME
-**AUTHOR_ONE_DEGREE**
-AUTHOR_ONE_INSTITUTION
+### Karamtoth Pavan
+**MTech Communication Engineering**
+IIT Guwahati
 
-[![GitHub](https://img.shields.io/badge/GitHub-AUTHOR_ONE_GITHUB-181717?logo=github)](https://github.com/AUTHOR_ONE_GITHUB)
+[![GitHub](https://img.shields.io/badge/GitHub-AUTHOR_ONE_GITHUB-181717?logo=github)](https://github.com/pavan-karamtoth)
 
 </td>
 <td align="center" width="50%">
 
-### AUTHOR_TWO_NAME
-**AUTHOR_TWO_DEGREE**
+### Akash Sonowal
+**MTech Communications Engineering**
 AUTHOR_TWO_INSTITUTION
 
-[![GitHub](https://img.shields.io/badge/GitHub-AUTHOR_TWO_GITHUB-181717?logo=github)](https://github.com/AUTHOR_TWO_GITHUB)
+[![GitHub](https://img.shields.io/badge/GitHub-AUTHOR_TWO_GITHUB-181717?logo=github)](https://github.com/AkashSonowal244102001)
 
 </td>
 </tr>
