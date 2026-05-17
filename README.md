@@ -43,7 +43,8 @@ IIT Guwahati
 [![GitHub](https://img.shields.io/badge/GitHub-AUTHOR_TWO_GITHUB-181717?logo=github)](https://github.com/AkashSonowal244102001)
 
 </td>
-<td align="center" width="50%">
+</tr>
+</table>
 ## Table of Contents
 
 - [Overview](#overview)
